@@ -1,10 +1,9 @@
-# Heavily unstable. Don't fork & use this repository
+# Deprecated! 
 
-# Project still under heavy development
-## Everything will be changed in the release
+## Don't fork & use this repository
 
 
-# “ Hey there 👋 I'm Shadow „
+## “ Hey there 👋 I'm Shadow „
 ## AI based Advanced telegram Group Management Bot Suit For All Your Needs ❤️
 
 ![Shadow](https://telegra.ph/file/cfc30564ae32f55b27aa5.jpg)
@@ -28,16 +27,11 @@
  - Skylee
  - emilia
 
-
-The bot is based on the original work done by [Deshadeeth Thisarana](https://github.com/deshadeeth-thisarana)
+The bot is based on the original work done by [Paul Larsen](https://github.com/sonoflars)
 This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
 All other credits mentioned on top of scripts
 
-Should any be missing kindly let us know at [🛡Ģ₳ŇĞ🛡 ØF FŔĮĘŃĐŞ📝](https://t.me/gangoffriends) or simply submit a pull request on the readme.
-
 ## Special Credits
 - [PaulSonLarsen](https://t.me/SonOfLars) - Marie bot owner
-- [Inuka Asith](https://t.me/InukaAsith) - DaisyX bot owner
-- [Prabhasha](https://t.me/Prabha_sha) - Hexzy bot owner
 
